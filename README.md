@@ -1,3 +1,3 @@
 # hello-world
-My 1st repository
-Hi everybody
+My 1st repository.
+Hi everybody!
